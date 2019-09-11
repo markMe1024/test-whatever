@@ -7,7 +7,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/mark/hibernate/tester/HibernateTester.java" line="26" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8aa72a-99ee-4515-ac94-2c0f9dbb7521" name="Default Changelist" comment="" />
+    <list default="true" id="cd8aa72a-99ee-4515-ac94-2c0f9dbb7521" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/linux常用命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/shell脚本.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/vim常用命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/概述.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-whatever-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-whatever-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +42,26 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/shell/ginfo.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/shell/login_mysql.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="19" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mark/hibernate/tester/HibernateTester.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mark/stream/tester/StreamTester.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/shell/ginfo.sh" />
       </list>
     </option>
   </component>
@@ -116,14 +144,45 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-whatever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-whatever" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-whatever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-whatever" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-whatever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-whatever" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-whatever" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-whatever" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="shell" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,6 +200,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\test-whatever\src\main\note\shell-linux" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\test-whatever\src\main\resource" />
     </key>
@@ -256,14 +318,17 @@
       <workItem from="1566994475267" duration="610000" />
       <workItem from="1567040252772" duration="756000" />
       <workItem from="1567409883138" duration="1878000" />
+      <workItem from="1568028906258" duration="1396000" />
+      <workItem from="1568107215191" duration="248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67411000" />
+    <option name="totallyTimeSpent" value="69055000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
@@ -271,7 +336,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.112041466" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21917808" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -453,6 +518,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/shell/ginfo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/shell/login_mysql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="19" selection-end-line="9" />
         </state>
       </provider>
     </entry>
