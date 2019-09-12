@@ -4,8 +4,8 @@
 #
 if [ $# -ne 1 ]
 then 
-	echo "Error : Arguments are not supplied"
-	echo "Usage : $0 file-name"
+	echo "Error : lack of necessary parameter" 1>&2
+	echo "Usage : $0 file-name" 1>&2
 	exit 1
 fi
 

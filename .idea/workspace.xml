@@ -8,13 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd8aa72a-99ee-4515-ac94-2c0f9dbb7521" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/linux常用命令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/shell脚本.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/vim常用命令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/note/shell-linux/概述.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-whatever-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-whatever-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/note/Shell中的重定向.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/note/Shell中的重定向.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/shell/cp2testwhatever.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/shell/cp2testwhatever.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/shell/demoscr" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/shell/demoscr" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,26 +38,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/shell/ginfo.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/shell/login_mysql.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="19" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -319,16 +296,15 @@
       <workItem from="1567040252772" duration="756000" />
       <workItem from="1567409883138" duration="1878000" />
       <workItem from="1568028906258" duration="1396000" />
-      <workItem from="1568107215191" duration="248000" />
+      <workItem from="1568107215191" duration="882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69055000" />
+    <option name="totallyTimeSpent" value="69689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
@@ -521,17 +497,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/shell/login_mysql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/shell/ginfo.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/shell/login_mysql.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="19" selection-end-line="9" />
         </state>
       </provider>
     </entry>
