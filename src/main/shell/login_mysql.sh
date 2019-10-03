@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#让用户输入mysql的用户名和密码
+# 让用户输入mysql的用户名和密码
 #
 echo "请输入您的mysql用户名："
 read username
