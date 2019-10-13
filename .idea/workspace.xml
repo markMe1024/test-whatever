@@ -8,6 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd8aa72a-99ee-4515-ac94-2c0f9dbb7521" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
@@ -34,6 +35,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/test-whatever.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test-whatever.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/note/Shell中的重定向.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/note/Shell中的重定向.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/shell/cp2testwhatever.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/shell/cp2testwhatever.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/shell/demoscr" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/shell/demoscr" afterDir="false" />
+>>>>>>> 81fbea9e77343894b8dd67b38c4991c69fd1e96c
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -106,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/mark/hibernate/tester/HibernateTester.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mark/stream/tester/StreamTester.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/shell/ginfo.sh" />
       </list>
     </option>
   </component>
@@ -143,6 +150,9 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -171,6 +181,7 @@
               <item name="test-whatever" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="note" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +191,9 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="note" type="462c0819:PsiDirectoryNode" />
               <item name="shell-linux" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="shell" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 81fbea9e77343894b8dd67b38c4991c69fd1e96c
             </path>
           </expand>
           <select />
@@ -204,6 +218,9 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\test-whatever\src\main\note\shell-linux" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\workspace\test-whatever\src\main\resource" />
     </key>
@@ -319,15 +336,27 @@
       <workItem from="1566994475267" duration="610000" />
       <workItem from="1567040252772" duration="756000" />
       <workItem from="1567409883138" duration="1878000" />
+<<<<<<< HEAD
       <workItem from="1567603802173" duration="365000" />
+=======
+      <workItem from="1568028906258" duration="1396000" />
+      <workItem from="1568107215191" duration="882000" />
+>>>>>>> 81fbea9e77343894b8dd67b38c4991c69fd1e96c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="67776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="69689000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+>>>>>>> 81fbea9e77343894b8dd67b38c4991c69fd1e96c
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
       <window_info id="Designer" order="1" />
@@ -335,7 +364,11 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.16916488" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.21917808" />
+>>>>>>> 81fbea9e77343894b8dd67b38c4991c69fd1e96c
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -469,6 +502,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/note/shell-linux/linux常用命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -476,6 +510,19 @@
             <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           </first_editor>
           <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/shell/login_mysql.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/shell/ginfo.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+>>>>>>> 81fbea9e77343894b8dd67b38c4991c69fd1e96c
         </state>
       </provider>
     </entry>

@@ -13,6 +13,7 @@
   <groupId>com.markMe1024</groupId>
   <artifactId>test-whatever</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <name>test-whatever</name>
   <url>http://www.markMe1024.com</url>
