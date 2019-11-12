@@ -1,7 +1,0 @@
-com\mark\reflection\Building.class
-com\mark\reflection\ReflectionTester.class
-com\mark\hibernate\utils\HibernateUtils.class
-com\mark\hibernate\tester\HibernateTester.class
-com\mark\thread\ThreadTester.class
-com\mark\stream\tester\StreamTester.class
-com\mark\log4j\tester\Log4jTester.class
