@@ -1,0 +1,12 @@
+disease state: control
+group: gDNA_Ctrl
+biochemical recurrence: N/A
+time f/u: N/A
+time no bcr: N/A
+time bcr: N/A
+time clinical recurrence: N/A
+time metastatic recurrence: N/A
+psa: N/A
+gleason score: N/A
+tumor stage: N/A
+patient number: N/A

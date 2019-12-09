@@ -1,0 +1,1 @@
+id,disease state,group,biochemical recurrence,time f/u,time no bcr,time bcr,time clinical recurrence,time metastatic recurrence,psa,gleason score,tumor stage,patient number,
